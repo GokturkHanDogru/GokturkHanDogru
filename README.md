@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Gokturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=GokturkHanDogru&show_icons=true&theme=dark)
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
